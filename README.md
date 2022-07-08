@@ -1,5 +1,9 @@
 # company-profile
 
+## Introduction:
+> This an Profile Company website simple front-end design for testing and learning vue 
+
+![Design gif](gif.gif)
 ## Project setup
 ```
 yarn install
